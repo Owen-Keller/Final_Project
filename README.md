@@ -1,5 +1,5 @@
 # Final_Project
-Library of babbel, Create books that are 100million chars long each randomly generated using sqrt(prime) results
+Library of babbel, Create books that are 100 million chars long each randomly generated using sqrt(prime) results
 this project uses Hero's method or babylonian Method depending on name preference. to aproximate the square root of an integer.
 The returned irrational number is then sliced and converted into asscci characters.
 
